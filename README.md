@@ -1,2 +1,3 @@
-# hs-wireguard
-homeserver wireguard configurations
+# Wireguard Configuration
+
+Homeserver Wireguard Configuration for port forward configuration.
